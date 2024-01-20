@@ -17,4 +17,7 @@ Participants will also gain insight into two key principles for crafting effecti
 ## Usage
 ```
 git clone <repo>
-``````
+```
+
+### OpenAI Developer quickstart
+For setup, API key configuration & others - please refer to developer quickstart [here](https://platform.openai.com/docs/quickstart?context=python)
